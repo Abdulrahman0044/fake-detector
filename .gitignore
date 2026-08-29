@@ -1,0 +1,33 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Environment files
+.env
+.env.*
+
+# Output folders
+audio_check_output/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node / package manager artifacts
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# Local generated media
+*.mp3
+*.wav
+*.mp4
